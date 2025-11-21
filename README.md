@@ -14,7 +14,10 @@ Official repository for the project Dexterity from Smart Lenses: Multi-Fingered 
   </a>
 </p>
 
-![logo](figs/teaser.png)
+<p align="center">
+  <img src="assets/website_teaser.gif" alt="teaser">
+</p>
+
 
 
 ## Citation
