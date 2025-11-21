@@ -9,13 +9,12 @@ Official repository for the project Dexterity from Smart Lenses: Multi-Fingered 
   <a href="https://arxiv.org/abs/2511.16661">
     <img src="https://img.shields.io/badge/arXiv-2406.12345-b31b1b.svg" alt="arXiv">
   </a>
-  <a href="https://jc-bao.github.io/spider-project/">
+  <a href="https://aina-robot.github.io">
     <img src="https://img.shields.io/badge/website-project-blue.svg" alt="Project Website">
   </a>
 </p>
 
 <p align="center">
-  <!-- <img src="assets/website_teaser.gif" alt="teaser"> -->
   <img src="assets/website_teaser.gif" alt="teaser">
 </p>
 
