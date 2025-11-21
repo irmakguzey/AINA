@@ -1,7 +1,7 @@
 # AINA
 Official repository for the project Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations. Project Website: [aina-robot.github.io](https://aina-robot.github.io/).
 
-## 🚧 This repository is under internal review. Estimated release date: Nov 27 - Dec 10.
+## 🚧 This repository is under internal review. Estimated release date: Dec 1 - Dec 15.
 
 <h1 align="center">AINA🪞 | Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations </h1>
 
